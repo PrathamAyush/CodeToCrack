@@ -1,6 +1,6 @@
-#include<iostream.h>
+#include<iostream> //iostream.h is old lib use in Turbo C++
 #include<conio.h>
-void main()
+void main()        //Also use "int main()".Note "int main()" wants return value so you use "int main()" you should have to return value to "main function"
 {
 clrscr();
  int arr[2][2];
