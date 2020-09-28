@@ -1,4 +1,4 @@
-#include<iostream.h>
+#include<iostream>   //iostream.h is old lib use in Turbo C++
 #include<conio.h>
 
 class rectangle
