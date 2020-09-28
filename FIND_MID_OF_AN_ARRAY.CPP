@@ -1,4 +1,4 @@
-#include<iostream.h> //.h for Turbo C++ user 
+#include<iostream> //.h for Turbo C++ user 
 #include<conio.h>
 void main()
 {
