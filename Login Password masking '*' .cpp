@@ -50,4 +50,4 @@ void main()
  cout<<"3.KID'S FASHION"<<endl;
  getch();
  }}
-           //This program is not compleated yet but password masking is done.full updated program is comming soon.you want to edit programm fell free. 
+           //This program is not compleated yet but password masking is done.full updated program is comming soon.you want to edit programm feel free. 
